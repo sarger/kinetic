@@ -1,1 +1,5 @@
 open ==> Kinetic/Kinetic.sln
+
+i have set solution to run the console and api on startup
+The console is used to test the api
+Api doesnt not have security, if required i can add it
