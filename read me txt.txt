@@ -1,0 +1,1 @@
+open ==> Kinetic/Kinetic.sln
